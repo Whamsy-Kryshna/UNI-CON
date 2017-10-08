@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">UNI - CON</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new">New</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Profile</string>
+    <string name="title_section3">Courses</string>
+    <string name="title_section4">Submissions</string>
+    <string name="title_section5">Forum</string>
+    <string name="title_section6">Settings</string>
+    <string name="title_section7">App Support</string>
+
+    <string name="title_1">About</string>
+    <string name="title_2">Posts</string>
+    <string name="title_3">Participants</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="userName">Enter University ID</string>
+    <string name="password">Password : </string>
+    <string name="signup">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="e_mail">Enter E-Mail</string>
+    <string name="names">Enter Name Here</string>
+    <string name="passwd">Enter Password</string>
+    <string name="passwd_confirm">Confirm Password</string>
+    <string name="empty"></string>
+    <string name="login">Log In</string>
+    <string name="new_user">New User ?</string>
+    <string name="welcome">Hi, How are you doing today ?!</string>
+    <string name="home">Home</string>
+    <string name="logut">Log Out</string>
+    <string name="student">Student</string>
+    <string name="signup_as">Sign up as a </string>
+    <string name="name">Name :</string>
+    <string name="role">Role :</string>
+    <string name="changePasswd">Change Password</string>
+    <string name="image">Set up a profile picture, click on the image below to browse or set it up later., </string>
+    <string name="ann">Univ Announcements</string>
+    <string name="events">Events</string>
+
+    <string-array name="roles">
+        <item>Student</item>
+        <item>Faculty Member</item>
+    </string-array>
+
+    <string-array name="post_type">
+        <item>Announcement</item>
+        <item>Submission Request</item>
+        <item>Material Post</item>
+        <item>Forum Thread</item>
+    </string-array>
+
+    <string name="title_activity_profile">profileActivity</string>
+    <string name="title_activity_change_password">Change Password</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="confirm_passwd">Confirm Password :</string>
+    <string name="new_paswd">New Password :</string>
+    <string name="old_passwd">Old Password :</string>
+    <string name="my_courses">My Courses</string>
+    <string name="Registration_pending">Registration Pending</string>
+    <string name="reg_course">Register For A New Course</string>
+    <string name="title_activity_courses">Course</string>
+    <string name="title_activity_add_course">Add A Course</string>
+    <string name="search">Enter Course Name</string>
+    <string name="search1">Search Results</string>
+    <string name="courseName">Course Name :</string>
+    <string name="description">Description</string>
+    <string name="timing">Class Time :</string>
+    <string name="days">Class Days :</string>
+    <string name="to">To</string>
+    <string name="m">M</string>
+    <string name="t">T</string>
+    <string name="w">W</string>
+    <string name="r">R</string>
+    <string name="f">F</string>
+    <string name="s">S</string>
+    <string name="address">Class Address :</string>
+    <string name="course_code">Course Code/Num :</string>
+    <string name="generate_code">Generate Unique Course Code</string>
+    <string name="create_course">Create Course</string>
+    <string name="id">ID :</string>
+    <string name="view_profile">View Student Profile</string>
+    <string name="add_to_course">Add Student To Course</string>
+    <string name="click_here">Click Here</string>
+    <string name="title_activity_post">Post</string>
+    <string name="prof">Professor :</string>
+    <string name="course">Course :</string>
+    <string name="class_schedule">Class Schedule</string>
+    <string name="title">Title :</string>
+    <string name="context">Context :</string>
+    <string name="category">Category :</string>
+    <string name="add_image">Add A Image (optional)</string>
+    <string name="create_post">Create Post</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="univ_id">University ID :</string>
+    <string name="welcome_back">Welcome Back !!</string>
+    <string name="e_mail2">E-Mail :</string>
+    <string name="cmt">Comment</string>
+    <string name="cmts">Comments</string>
+</resources>
